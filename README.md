@@ -2,7 +2,7 @@
 
 ### Abanoub Samir - GitHub  
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1461650158098305028/D5t8D_JY_400x400.jpg" align="center" style="width: 50%" />
+<img src="https://pbs.twimg.com/profile_images/1461650158098305028/D5t8D_JY_400x400.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -23,7 +23,9 @@
 
 <br/>  
 
-<details><summary> My Skill Set </summary><table><tr><td valign="top" width="33%">
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
@@ -47,11 +49,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 </div>
 
-</td></tr></table></details>  
+</td></tr></table>  
 
 <br/>  
 
-<details><summary> Connect with me </summary><div align="center">
+
+## Connect with me  
+<div align="center">
 <a href="https://github.com/ProfAbanoub" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -77,11 +81,13 @@
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
-</details>  
+  
 
 <br/>  
 
-<details><summary> Github Stats </summary><img src="https://github-readme-stats.vercel.app/api?username=ProfAbanoub&show_icons=true&count_private=true&hide_border=true" align="left" /></details>  
+
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=ProfAbanoub&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
 
