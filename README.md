@@ -2,7 +2,7 @@
 
 ### Abanoub Samir - GitHub  
 <div align="center">
-<img src="https://pbs.twimg.com/profile_images/1461650158098305028/D5t8D_JY_400x400.jpg" align="center" style="width: 100%" />
+<img src="https://pbs.twimg.com/profile_images/1461650158098305028/D5t8D_JY_400x400.jpg" align="center" style="width: 50%" />
 </div>  
   
 
