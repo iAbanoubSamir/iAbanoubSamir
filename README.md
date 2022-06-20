@@ -12,7 +12,7 @@
 - Now I am still studying at the University - EELU - Level Two - Faculty of Computers and Information Technology.  
   
 
-- I work a few times as Freelance, and have implemented many projects.  
+- I worked for a long time as a freelancer, now I work as a Remote Android Developer at MediaVision which is based in the United States.
   
 
 - I try to learn new skills and techniques every day constantly, and keep up with everything new.  
