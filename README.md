@@ -9,7 +9,7 @@
 ### <div align="center">I'm Abanoub Samir, Android Developer.</div>  
   
 
-- Now I am still studying at the University - EELU - Level Two - Faculty of Computers and Information Technology.  
+- Now I am still studying at the University - EELU - Level Three - Faculty of Computers and Information Technology.  
   
 
 - I worked for a long time as a freelancer, now I work as a Remote Android Developer at MediaVision which is based in the United States.
