@@ -2,7 +2,7 @@
 ## 💫 Abanoub Samir - [Android Developer]
 <div dir="ltr" style="text-align: left;">
   <ul style="text-align: left;">
-    <li>Remote Android Developer at MediaVision [United States].</li>
+    <li>Android Developer</li>
     <li>Undergraduate IT Student.</li>
     <li>Love Write &amp; Read Blogs.</li><li>Sometimes I write things on Medium: <a href="https://medium.com/@iAbanoubSamir" target="_blank">@iAbanoubSamir</a></li>
     <li>Established a blog to write articles on: <a href="https://androidgpa.com/" target="_blank">AndroidGPA.com</a> &amp; <a href="https://ar.androidgpa.com/" target="_blank">ar.AndroidGPA.com</a>.
